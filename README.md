@@ -9,3 +9,5 @@ For example, when multiclienting only the first .exe will have its affinity set 
 
 If you want to change the affinity configuration you can simply open AffinityNumber.txt and set both of the the values in the file to 0, then save.
 Next time you run the executable you will get the configuration setup again in the console.
+
+Last modified date is 28-10-2020
