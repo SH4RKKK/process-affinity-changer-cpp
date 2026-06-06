@@ -3,8 +3,7 @@
 A console tool that sets the CPU affinity mask of a running process.
 Supports up to 16 cores and saves the configuration to a text file for reuse on next run.
 
-**Written:** October 2020
-
+**Written:** October 2020  
 **Language:** C++ (MSVC)
 
 ## Notes
